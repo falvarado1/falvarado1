@@ -1,0 +1,7 @@
+# ignora todos los .tmp
+*.tmp
+# ignora todos los ..a
+*.a
+# ignora todos los .lib
+*.lib
+
